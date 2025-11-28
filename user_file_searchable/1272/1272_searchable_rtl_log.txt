@@ -1,0 +1,38 @@
+============================================================
+OCR RTL LOG
+Generated: 2025-11-28T19:02:08.959653
+============================================================
+
+SUMMARY
+----------------------------------------
+Total words processed: 1160
+RTL words detected: 1015
+RTL lines reversed: 221
+RTL percentage: 87.5%
+
+PAGE DETAILS
+----------------------------------------
+Page   1:   254 words,   229 RTL,  34 lines reversed
+Page   2:   352 words,   302 RTL,  37 lines reversed
+Page   3:     9 words,     7 RTL,   2 lines reversed
+Page   4:   211 words,   182 RTL,  47 lines reversed
+Page   5:   225 words,   192 RTL,  55 lines reversed
+Page   6:   109 words,   103 RTL,  46 lines reversed
+
+PROCESSING LOG
+----------------------------------------
+[19:01:57] OCR process started
+[19:01:57] Input PDF: F:\goproject\finalcode\v1.1\user_file\1272\1272.pdf
+[19:01:57] Languages: eng+fas
+[19:01:57] DPI: 300
+[19:01:57] Converting PDF to images...
+[19:01:58] PDF has 6 pages
+[19:01:59] Starting HOCR text extraction...
+[19:02:01] Page 1: 254 words (229 RTL), 34 lines reversed
+[19:02:03] Page 2: 352 words (302 RTL), 37 lines reversed
+[19:02:03] Page 3: 9 words (7 RTL), 2 lines reversed
+[19:02:05] Page 4: 211 words (182 RTL), 47 lines reversed
+[19:02:07] Page 5: 225 words (192 RTL), 55 lines reversed
+[19:02:08] Page 6: 109 words (103 RTL), 46 lines reversed
+[19:02:08] Text extraction complete. 221 lines reversed
+[19:02:08] Text saved to: F:\goproject\finalcode\v1.1\user_file_searchable\1272\1272_searchable.txt
